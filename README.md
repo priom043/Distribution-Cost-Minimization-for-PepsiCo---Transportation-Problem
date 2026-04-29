@@ -402,6 +402,7 @@ pip install gurobipy   # or: pip install cplex
 ## Academic Context
 
 This project was completed as part of **IPE 307 — Operations Research**, exploring the application of Linear Programming to classical supply chain optimization problems.
+This was a group project implemented by Tawfique Ihsan (1908043), Mohiuddin Adnan (1908042) and Sadat Iqbal (1908043)
 
 ### Topics Demonstrated
 - Transportation Problem formulation (balanced vs. unbalanced)
@@ -419,7 +420,6 @@ The transportation problem is a special case of the **minimum-cost flow problem*
 
 - Hillier, F. S., & Lieberman, G. J. (2015). *Introduction to Operations Research* (10th ed.). McGraw-Hill.
 - Taha, H. A. (2017). *Operations Research: An Introduction* (10th ed.). Pearson.
-- Hart, W. E., et al. (2017). *Pyomo — Optimization Modeling in Python* (2nd ed.). Springer.
 - Pyomo Documentation: https://pyomo.readthedocs.io
 - Gurobi Optimizer: https://www.gurobi.com
 
