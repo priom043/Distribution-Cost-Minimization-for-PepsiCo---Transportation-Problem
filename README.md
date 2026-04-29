@@ -402,7 +402,7 @@ pip install gurobipy   # or: pip install cplex
 ## Academic Context
 
 This project was completed as part of **IPE 307 — Operations Research**, exploring the application of Linear Programming to classical supply chain optimization problems.
-This was a group project implemented by Tawfique Ihsan (1908043), Mohiuddin Adnan (1908042) and Sadat Iqbal (1908043)
+This was originally a group project jointly implemented by Tawfique Ihsan (1908043), Mohiuddin Adnan (1908042) and Sadat Iqbal (1908043). Subsequently, the project was redone by using Pyomo and Gurobi solver by Sadat Iqbal.
 
 ### Topics Demonstrated
 - Transportation Problem formulation (balanced vs. unbalanced)
